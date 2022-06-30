@@ -1,6 +1,6 @@
 import ftplib
 import sys
-# The datetime library has lots of useful stuff, but we're telling python we only want the date functions
+# The "datetime" library has lots of useful stuff, but we're telling python we only want the "date" functions
 from datetime import date
 
 # PARAMETERS
